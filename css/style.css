@@ -870,6 +870,9 @@ height: auto; }
   .media-size1 {
     height: 62em;
   }
+  .media-size2 {
+    height: 105em;
+  }
   }
 
 @media (min-width: 768px) {
@@ -880,6 +883,9 @@ height: auto; }
   }
   .media-size1 {
     height: 50em;
+  }
+  .media-size2 {
+    height: 80em;
   }
   }
 
@@ -892,6 +898,9 @@ height: auto; }
   .media-size1 {
     height: 54em;
   }
+  .media-size2 {
+    height: 90em;
+  }
   }
 
 @media (min-width: 1200px) {
@@ -903,6 +912,9 @@ height: auto; }
   .media-size1 {
     height: 48em;
   }
+  .media-size2 {
+    height: 80em;
+  }
   }
 
 @media (min-width: 1400px) {
@@ -913,6 +925,9 @@ height: auto; }
   }
   .media-size1 {
     height: 43em;
+  }
+  .media-size2 {
+    height: 70em;
   }
   }
 
