@@ -503,7 +503,9 @@ dd {
   margin-left: 0; }
 
 blockquote {
-  margin: 0 0 1rem; }
+  margin: 0 0 1rem;
+  color:white;
+ }
 
 b,
 strong {
@@ -4395,7 +4397,9 @@ textarea.form-control-lg {
   border-width: 0 1px; }
 
 .accordion-body {
-  padding: 1rem 1.25rem; }
+  padding: 1rem 1.25rem;
+  color: white;
+}
 
 .accordion-flush .accordion-button {
   border-right: 0;
@@ -9868,7 +9872,7 @@ textarea {
 
 .block-testimonial p {
   font-size: 18px;
-  color: #000;
+  color: white;
   line-height: 2;
   margin-bottom: 30px; }
 
