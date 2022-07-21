@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: https://silverlinetutoring.org/get-involved.html
+Disallow: https://silverlinetutoring.org/reviews.html
+Disallow: https://silverlinetutoring.org/blog.html
+Disallow: https://silverlinetutoring.org/single.html
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Host: https://silverlinetutoring.org
+
+Sitemap: https://silverlinetutoring.org/sitemap.xml
