@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: http://silverlinetutoring.org
 Disallow: https://silverlinetutoring.org/get-involved.html
 Disallow: https://silverlinetutoring.org/reviews.html
 Disallow: https://silverlinetutoring.org/blog.html
